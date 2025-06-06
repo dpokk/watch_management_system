@@ -22,10 +22,10 @@ app.use((req, res, next) => {
 
 // MySQL connection pool setup
 const pool = mysql.createPool({
-  host: 'localhost',
+  host: 'add-your-host',
   user: 'root',
-  password: 'missinglink',
-  database: 'watch_management'
+  password: 'add-your-password',
+  database: 'add-your-database'
 });
 
 // POST - Add a new watch
