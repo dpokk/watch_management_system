@@ -1,0 +1,404 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product iphone 14",
+      "price": 55000
+    },
+    {
+      "id": 2,
+      "name": "Product iphone 14plus",
+      "price": 65000
+    },
+    {
+      "id": 3,
+      "name": "Product SamsungS24",
+      "price": 75000
+    },
+    {
+      "id": 4,
+      "name": "Product SamsungS22 Ultra",
+      "price": 85000
+    },
+    {
+      "id": 5,
+      "name": "Product  Nothing 2A ",
+      "price": 29000
+    },
+    {
+      "id": 6,
+      "name": "Product  Nothing ",
+      "price": 19000
+    },
+    {
+      "id": 7,
+      "name": "Product  iphone 16 pro max ",
+      "price": 120000
+    },
+    {
+      "id": 8,
+      "name": "Product  iphone 15 plus ",
+      "price": 65000
+    },
+    {
+      "id": 9,
+      "name": "Product  vivo f24 ",
+      "price": 16000
+    },
+    {
+      "id": 10,
+      "name": "Product  iphone 14 pro max",
+      "price": 90000
+    },
+    {
+      "id": 11,
+      "name": "Product  Samsung Z flip ",
+      "price": 90000
+    },
+    {
+      "id": 12,
+      "name": "Product One plus 13 5G ",
+      "price": 73000
+    },
+    {
+      "id": 13,
+      "name": "Product   vivo X100 Pro 5G ",
+      "price": 64000
+    },
+    {
+      "id": 14,
+      "name": "Product   oppo X8 Pro 5G ",
+      "price": 85000
+    },
+    {
+      "id": 15,
+      "name": "Product   iQOO 12 5G ",
+      "price": 44000
+    },
+    {
+      "id": 16,
+      "name": "Product   Huawei Pura 70 Pro 5G ",
+      "price": 90707
+    },
+    {
+      "id": 17,
+      "name": "Product    Motorola Edge 50 Fusion ",
+      "price": 18000
+    },
+    {
+      "id": 18,
+      "name": "Product    CMF Phone 2 pro 5G ",
+      "price": 20000
+    },
+    {
+      "id": 19,
+      "name": "Product    Realme C63 ",
+      "price": 10000
+    },
+    {
+      "id": "6407",
+      "name": "Iphone 16",
+      "price": 66000
+    },
+    {
+      "id": "d332",
+      "name": "Vivo f25",
+      "price": 25000
+    },
+    {
+      "id": "56c9",
+      "name": "Iphone 15 plus",
+      "price": 65000,
+      "category": "phone"
+    },
+    {
+      "id": "6101",
+      "name": "iPhone 14",
+      "price": 55000,
+      "category": "phone"
+    },
+    {
+      "id": "0b87",
+      "name": "iPhone 14plus",
+      "price": 65000,
+      "category": "phone"
+    },
+    {
+      "id": "5cd6",
+      "name": "SamsungS24",
+      "price": 75000,
+      "category": "phone"
+    },
+    {
+      "id": "fd90",
+      "name": "Samsung S22 Ultra",
+      "price": 85000,
+      "category": "phone"
+    },
+    {
+      "id": "9f98",
+      "name": "Nothing 2A",
+      "price": 29000,
+      "category": "phone"
+    },
+    {
+      "id": "e28c",
+      "name": "Nothing",
+      "price": 19000,
+      "category": "phone"
+    },
+    {
+      "id": "e25f",
+      "name": "iphone 16 pro max",
+      "price": 120000,
+      "category": "phone"
+    },
+    {
+      "id": "5ac7",
+      "name": "vivo f24",
+      "price": 16000,
+      "category": "phone"
+    },
+    {
+      "id": "df3f",
+      "name": "iPhone 14 Pro max",
+      "price": 90000,
+      "category": "phone"
+    },
+    {
+      "id": "12bc",
+      "name": "Samsung Z Flip",
+      "price": 90000,
+      "category": "phone"
+    },
+    {
+      "id": "0a0c",
+      "name": "One plus 13 5G",
+      "price": 73000,
+      "category": "phone"
+    },
+    {
+      "id": "6825",
+      "name": "vivo X100 Pro 5G",
+      "price": 64000,
+      "category": "phone"
+    },
+    {
+      "id": "3467",
+      "name": "Oppo Find X8 Pro 5G",
+      "price": 85000,
+      "category": "phone"
+    },
+    {
+      "id": "0f50",
+      "name": "iQOO 12 5G",
+      "price": 44000,
+      "category": "phone"
+    },
+    {
+      "id": "f4e2",
+      "name": "Huawei Pura 70 Pro 5G",
+      "price": 90707,
+      "category": "phone"
+    },
+    {
+      "id": "dd95",
+      "name": "Motorola Edge 50 Fusion",
+      "price": 18000,
+      "category": "phone"
+    },
+    {
+      "id": "bf2c",
+      "name": "CMF Phone 2 Pro 5G",
+      "price": 20999,
+      "category": "phone"
+    },
+    {
+      "id": "31b8",
+      "name": "Realme",
+      "price": 10000,
+      "category": "phone"
+    },
+    {
+      "id": "2c53",
+      "name": "Redmi A4 5G",
+      "price": 8699,
+      "category": "phone"
+    },
+    {
+      "id": "37ef",
+      "name": "Motorola G05",
+      "price": 7299,
+      "category": "phone"
+    },
+    {
+      "id": "c6e1",
+      "name": "Realme Narzo N61",
+      "price": 7498,
+      "category": "phone"
+    },
+    {
+      "id": "b0d9",
+      "name": "Redmi A5",
+      "price": 6499,
+      "category": "phone"
+    },
+    {
+      "id": "72a4",
+      "name": "Poco c61",
+      "price": 5799,
+      "category": "phone"
+    },
+    {
+      "id": "2a64",
+      "name": "Xiaomi Red 9A",
+      "price": 19000,
+      "category": "phone"
+    },
+    {
+      "id": "ddc0",
+      "name": "Dell 14 Plus Laptop",
+      "price": 118199.99,
+      "category": "laptop"
+    },
+    {
+      "id": "fc9e",
+      "name": "Dell 16 Plus Laptop",
+      "price": 91959.96,
+      "category": "laptop"
+    },
+    {
+      "id": "231b",
+      "name": "Alienware m16 R2 Gaming Laptop",
+      "price": 160098.98,
+      "category": "laptop"
+    },
+    {
+      "id": "401b",
+      "name": "G15 Gaming Laptop",
+      "price": 74989.98,
+      "category": "laptop"
+    },
+    {
+      "id": "69bd",
+      "name": "Apple 2020 Macbook Air Apple M1",
+      "price": 66990,
+      "category": "laptop"
+    },
+    {
+      "id": "3528",
+      "name": "Apple MacBook AIR Apple M2",
+      "price": 77990,
+      "category": "laptop"
+    },
+    {
+      "id": "9a04",
+      "name": "iphone 12 pro",
+      "price": 40000,
+      "category": "phone"
+    },
+    {
+      "id": "8b45",
+      "name": "iphone 12 pro max",
+      "price": 56000,
+      "category": "phone"
+    },
+    {
+      "id": "cffb",
+      "name": "HP Chromebook Intel Celeron Dual Core N4120",
+      "price": 16990,
+      "category": "laptop"
+    },
+    {
+      "id": "c57e",
+      "name": "Apple MacBook Air Apple M4",
+      "price": 95990,
+      "category": "laptop"
+    },
+    {
+      "id": "6b22",
+      "name": "Apple MacBook Pro Apple M3",
+      "price": 149990,
+      "category": "laptop"
+    },
+    {
+      "id": "ede1",
+      "name": "HP 15 (2024) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home",
+      "price": 31499,
+      "category": "laptop"
+    },
+    {
+      "id": "6a6c",
+      "name": "HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT",
+      "price": 95990,
+      "category": "laptop"
+    },
+    {
+      "id": "8422",
+      "name": "HP Pavilion AI PC Intel Core Ultra 5 125U - (16 GB/512 GB SSD/Windows 11 Home)",
+      "price": 66990,
+      "category": "laptop"
+    },
+    {
+      "id": "076f",
+      "name": "Lenovo LOQ AMD Ryzen 5 Quad Core 7235HS - (12 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeFor...",
+      "price": 60990,
+      "category": "laptop"
+    },
+    {
+      "id": "bf02",
+      "name": "Lenovo IdeaPad Slim 5 WUXGA OLED AI PC Intel Core Ultra 5 125H - (16 GB/1 TB SSD/Windows 11 Home) 14IM..",
+      "price": 73990,
+      "category": "laptop"
+    },
+    {
+      "id": "6943",
+      "name": "Lenovo ThinkBook 16 G6 ABP AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) 21KKA0G1IN...",
+      "price": 52990,
+      "category": "laptop"
+    },
+    {
+      "id": "7159",
+      "name": "ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) X1504ZA-NJ549WS Thi...",
+      "price": 69000,
+      "category": "laptop"
+    },
+    {
+      "id": "f7b6",
+      "name": "ASUS X1504ZA Intel Core i3 12th Gen 12th Gen Intel Core i3-1215U - (8 GB/512 GB SSD/Windows 11 Home) X...",
+      "price": 54000,
+      "category": "laptop"
+    },
+    {
+      "id": "1964",
+      "name": "ASUS TUF Gaming F15, 90WHrs Battery Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home/...",
+      "price": 95990,
+      "category": "laptop"
+    },
+    {
+      "id": "a4d3",
+      "name": "ASUS Expertbook P1 Intel Core i7 13th Gen 13620H - (16 GB/512 GB SSD/Windows 11 Home) P1503CVA-S71042W...",
+      "price": 62990,
+      "category": "laptop"
+    },
+    {
+      "id": "b865",
+      "name": "ASUS ASUS Gaming V16 (2025) for Creator with Office 2024 + M365 Basic*, AI PC Intel Core 5 210H - (16 ...",
+      "price": 87000,
+      "category": "laptop"
+    },
+    {
+      "id": "3157",
+      "name": "Acer Swift Go 14 Snapdragon X Plus - (16 GB/512 GB SSD/Windows 11 Home) SFG14-01-X9C8 Thin and Light",
+      "price": 90000,
+      "category": "laptop"
+      
+    },
+    {
+      "id": "6a6c",
+      "name": "HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT",
+      "price": 95990,
+      "category": "laptop"
+    }
+  ]
+}
