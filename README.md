@@ -1,17 +1,30 @@
 # Watch Management System
 
-A RESTful API service for managing a collection of watches. This application provides endpoints to create, read, update, and delete watch records in a MySQL database.
+A full-stack application for managing a collection of watches with a modern, responsive UI. This application provides a RESTful API backend and an elegant frontend interface for creating, reading, updating, and deleting watch records in a MySQL database.
 
 ## Features
 
-- CRUD operations for watch management
+- Full-stack watch management system
+- Modern, responsive UI with real-time updates
+- Automatic categorization of watches:
+  - Luxury watches (above ₹50,000)
+  - Luxury watches (below ₹50,000)
+  - Casual watches
 - RESTful API endpoints
 - MySQL database integration
 - CORS enabled for cross-origin requests
 - Input validation and error handling
+- Real-time price updates and deletion
 
 ## Tech Stack
 
+### Frontend
+- HTML5
+- CSS3 (with modern features like CSS variables)
+- Vanilla JavaScript
+- Responsive design with modern UI/UX
+
+### Backend
 - Node.js
 - Express.js
 - MySQL
@@ -22,6 +35,7 @@ A RESTful API service for managing a collection of watches. This application pro
 - Node.js (v14 or higher)
 - MySQL Server
 - npm (Node Package Manager)
+- Modern web browser
 
 ## Project Setup
 
@@ -65,37 +79,36 @@ npm install
 npm start
 ```
 
-The server will start running at `http://localhost:3000`
+6. Open the application:
+   - The backend server will run at `http://localhost:3000`
+   - Open `index.html` in your web browser to access the frontend interface
 
-## API Endpoints
+## Application Structure
 
-### Create a Watch
+### Frontend
+- Modern, responsive UI with a clean design
+- Real-time updates for watch management
+- Automatic categorization based on price and category
+- Price display in Indian Rupees (₹)
+- Interactive forms with validation
+- Smooth animations and transitions
+
+### API Endpoints
+
+#### Create a Watch
 - **POST** `/api/watches`
-- Body: `{ "name": "Watch Name", "price": 299.99, "category": "luxury" }`
+- Body: `{ "name": "Watch Name", "price": 29999.99, "category": "luxury" }`
 
-### Get All Watches
+#### Get All Watches
 - **GET** `/api/watches`
 
-### Update Watch Price
+#### Update Watch Price
 - **PUT** `/api/watches/:id`
-- Body: `{ "price": 399.99 }`
+- Body: `{ "price": 39999.99 }`
 
-### Delete a Watch
+#### Delete a Watch
 - **DELETE** `/api/watches/:id`
 
-## Error Handling
-
-The API includes error handling for:
-- Invalid JSON format
-- Missing required fields
-- Database errors
-- Not found resources
-
-## Security Notes
-
-- The application has CORS enabled for all origins (`*`). In a production environment, you should restrict this to specific origins.
-- Database credentials should be stored in environment variables rather than directly in the code.
-- Consider implementing authentication and authorization for production use.
 
 ## Contributing
 
